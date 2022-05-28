@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Debora Fernandes  da Silva
-- 👀 I estou em  busca de conhecimento na área de tecnologi
-- 🌱 I’m currently  cursando  Tecnologia da Informação
-- 💞️ I’m  nessa caminhada de aprendizado
+- 👋 Hi, I’m Debora Fernandes  da Silva
+- 👀 I estou em busca de conhecimento na área de tecnologia
+- 🌱 I’m currently cursando Tecnologia da Informação
+- 💞️ I’m nessa caminhada de aprendizado
 - 📫 Contato pelo e-mail: debora.fsilva@gmail.com
 
 <!---
