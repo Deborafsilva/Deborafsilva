@@ -1,8 +1,8 @@
 Apresentação
-- 👋 Hi, I’m Debora Fernandes da Silva;
-- 👀 I estou em busca de conhecimento e aprendizado na área de tecnologia;
-- 🌱 I’m currently cursando Tecnologia da Informação;
-- 💞️ I’m me desafiando a aprender e conhecer área de linguagem de programação;
+- 👋 Oi, Eu sou Debora Fernandes da Silva;
+- 👀 Estou em busca de conhecimento e aprendizado na área de tecnologia;
+- 🌱 Atualmente estou cursando Tecnologia da Informação;
+- 💞️ Estou me desafiando a aprender e conhecer área de linguagem de programação;
 - 📫 Contato pelo e-mail: debora.fsilva@hotmail.com
 
 <!---
