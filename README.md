@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - 👋 Hi, I’m Debora Fernandes  da Silva
 - 👀 I estou em busca de conhecimento na área de tecnologia
 - 🌱 I’m currently cursando Tecnologia da Informação
